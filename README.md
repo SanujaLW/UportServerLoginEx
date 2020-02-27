@@ -13,7 +13,7 @@ DID=A did for the application
 
 PRIVATE_KEY=Private key matching the did
 
-RPC_URL=https://rinkeby.infura.io/v3/<project id>
+RPC_URL=https://rinkeby.infura.io/v3/project_id - You need an infura account
   
 CALLBACK_URL=url for login callback
 
